@@ -1,0 +1,13 @@
+{
+    "baseUrl": "https://studio.wibbitz.com/",
+    "viewportHeight": 1080,
+    "viewportWidth": 1920,
+    "defaultCommandTimeout": 60000,
+    "integrationFolder": "cypress/integration/tests/",
+    "env": {
+        "adminEmail": "address_unknown@ukr.net",
+        "adminPass": "2e45UBC!"
+    }
+
+
+}
