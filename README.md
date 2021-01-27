@@ -1,7 +1,7 @@
 
 # For opening project
 
-### 1. Create folder for project (in teкminal)
+### 1. Create folder for project (in terminal)
 
 >mkdir cyTest && cd cyTest
 
